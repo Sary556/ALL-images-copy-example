@@ -17,3 +17,8 @@
 # 객체가 har이라는 변수에 할당되었고 그 아래에 
 
 # download.js 안에 내용을 복사하여 console에 붙여 놓으면 이미지 주소가 일괄적으로 나타난다.
+
+
+![image](https://github.com/Sary556/ALL-images-copy-example/assets/141836031/5165585a-5df2-4103-9c9e-9f70f5ea014c)
+
+결과 화면
