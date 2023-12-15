@@ -22,3 +22,10 @@
 ![image](https://github.com/Sary556/ALL-images-copy-example/assets/141836031/5165585a-5df2-4103-9c9e-9f70f5ea014c)
 
 결과 화면
+
+
+# 이미지 주소 대량 다운받기
+
+![image](https://github.com/Sary556/ALL-images-copy-example/assets/141836031/15973efd-6544-4f35-b4c4-1c0e2ea0819a)
+
+url 보단 google쪽에 넣고 돌리는게낫다
